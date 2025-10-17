@@ -25,7 +25,7 @@ https://visualappuctsmatch-arw6wp3yjceznr4fztevpu.streamlit.app/
 
 1. **Clone the repository**:
     ```sh
-    https://github.com/ashishkumar91/Visual_Products_Matcher
+    https://github.com/anandyadav3559/visual-product-matcher
     cd ecommerce-visual-search
     ```
 
