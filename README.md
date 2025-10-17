@@ -4,7 +4,7 @@ This project is an image search engine that allows users to upload an image or u
 
 
 # Deploy Link
-https://visualappuctsmatch-arw6wp3yjceznr4fztevpu.streamlit.app/
+https://visual-appuct-matcher-r9zbeavmxcsb3cmpqmyoq8.streamlit.app/
 
 
 ## Features
